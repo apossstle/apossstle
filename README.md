@@ -1,4 +1,4 @@
-# Frontend/Backend Engineer 
+# Frontend / Backend Engineer 
 
 ## Stack
 
