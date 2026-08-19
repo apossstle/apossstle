@@ -20,12 +20,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/f4rceful/f4rceful/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/f4rceful/f4rceful/output/pacman-contribution-graph-light.svg" />
-  <img alt="Pacman Contribution Graph" width="100%"
-    src="https://raw.githubusercontent.com/f4rceful/f4rceful/output/pacman-contribution-graph-light.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/apossstle/apossstle/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apossstle/apossstle/output/snake-light.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/apossstle/apossstle/output/snake-dark.svg" />
 </picture>
 </div>
 
